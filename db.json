@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "tasks": [
+    {
+      "id": 1,
+      "title": "One task",
+      "text": "One task text",
+      "category": "home"
+    },
+    {
+      "id": 2,
+      "title": "Two task",
+      "text": "Two task text",
+      "category": "job"
+    },
+    {
+      "title": "Three",
+      "text": "Three",
+      "category": "house",
+      "id": 3
+    }
+  ]
+}
